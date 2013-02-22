@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>   
     <title>ThalBlog</title>
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8080</link>
+    <atom:link href="http://alexthaler.github.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://alexthaler.github.com</link>
     <description>Code, ideas and anything else that pops into my head.</description>
     <pubDate>Tue, 19 Feb 2013 19:00:00 -0600</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
     <item>
       <title>Hello (new) World</title>
-      <link>http://localhost:8080/articles/hello_world/</link>
+      <link>http://alexthaler.github.com/articles/hello_world/</link>
       <pubDate>Tue, 19 Feb 2013 19:00:00 -0600</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/hello_world/</guid>
+      <guid isPermaLink="true">http://alexthaler.github.com/articles/hello_world/</guid>
       <author></author>
       <description>&lt;p&gt;As you can probably tell the blog has undergone a major update and upgrade.  I&apos;m still working on the themeing and UI so expect more updates to come.  
 
