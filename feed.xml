@@ -5,9 +5,21 @@
     <atom:link href="http://alexthaler.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://alexthaler.github.io</link>
     <description>Code, ideas and anything else that pops into my head.</description>
-    <pubDate>Tue, 19 Feb 2013 19:00:00 -0600</pubDate>
+    <pubDate>Fri, 05 Apr 2013 19:00:00 -0500</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>From Automation</title>
+      <link>http://alexthaler.github.io/articles/from_automation/</link>
+      <pubDate>Fri, 05 Apr 2013 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/from_automation/</guid>
+      <author></author>
+      <description>&lt;p&gt;This is a test post to ensure that my autodeploy script is working.  I&apos;ll be writing up a full description of how it works very soon.
+
+&lt;/p&gt;
+&lt;p&gt;Alex&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Hello (new) World</title>
       <link>http://alexthaler.github.io/articles/hello_world/</link>
