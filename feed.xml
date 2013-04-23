@@ -5,9 +5,30 @@
     <atom:link href="http://alexthaler.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://alexthaler.github.io</link>
     <description>Code, ideas and anything else that pops into my head.</description>
-    <pubDate>Sat, 20 Apr 2013 13:00:00 -0500</pubDate>
+    <pubDate>Mon, 22 Apr 2013 20:20:00 -0500</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Horae</title>
+      <link>http://alexthaler.github.io/articles/horae/</link>
+      <pubDate>Mon, 22 Apr 2013 20:20:00 -0500</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/horae/</guid>
+      <author></author>
+      <description>&lt;p&gt;Wanted to make a quick post about the new site I just finished up recently called Horae (Hoe-rai).  This site is basically just a wrapper for the Metra rail-time tracker on their site.  I built it out partially because their UI wasn&apos;t ideal and also to try and make something super simple so everyone could use it.  
+
+&lt;/p&gt;
+&lt;p&gt;The result is &lt;a href=&quot;http://horae.herokuapp.com&quot;&gt;Horae&lt;/a&gt;.  
+
+&lt;/p&gt;
+&lt;p&gt;It&apos;s mobile optimized so you can easily check the train status at the station or quickly bring up the upcoming trains as you&apos;re walking there.  I know the design leaves something to be desired but give me a break I&apos;m just getting into this whole HTML/CSS thing :).  
+
+&lt;/p&gt;
+&lt;p&gt;At any rate just wanted to make a quick post about it.  I might expand this later to go more in depth into the code but that&apos;ll have to wait for another night.  
+
+&lt;/p&gt;
+&lt;p&gt;The source is also up on my &lt;a href=&quot;http://www.github.com/alexthaler/Horae&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>AlexThaler.com</title>
       <link>http://alexthaler.github.io/articles/new_website/</link>
