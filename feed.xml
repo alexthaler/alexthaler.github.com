@@ -5,9 +5,50 @@
     <atom:link href="http://alexthaler.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://alexthaler.github.io</link>
     <description>Code, ideas and anything else that pops into my head.</description>
-    <pubDate>Mon, 22 Apr 2013 20:20:00 -0500</pubDate>
+    <pubDate>Mon, 06 May 2013 22:20:00 -0500</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Awesome Map Revalation</title>
+      <link>http://alexthaler.github.io/articles/awesome_map/</link>
+      <pubDate>Mon, 06 May 2013 22:20:00 -0500</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/awesome_map/</guid>
+      <author></author>
+      <description>&lt;p&gt;Today I read a post on reddit that reminded me of why I spend so much time on that site.  It all started out with a post titled &quot;Worlds Population&quot; and linked to the followig image.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/sJotonD.jpeg&quot; alt=&quot;initial awesome map&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Looking at this, it seriously blew my mind.  However I didn&apos;t have the reaction that a few on the comments did when they pointed out that the amount of land within that circle is actually much larger than displayed.  Looking further throught the comments I found this was definitely true and, of course, a relevant XKCD.  
+
+&lt;/p&gt;
+&lt;p&gt;It started when someone posted this image of the actual size of Africa that obviously conflicted with the posted images scale. 
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/uGTm3Wv.jpg&quot; alt=&quot;zomg africa map&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Along with an awesomely relevant West Wing clip (I&apos;ve always had this on my to watch list but it&apos;s now right at the top and on netflix!) that&apos;s definitely worth the 4 min watch.  
+
+&lt;/p&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/n8zBC2dvERM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Finally culiminating in a great revised map created by another redditor showing, in fact, how much larger the area is.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/N7yPa7z.jpg&quot; alt=&quot;super cool map&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Please forgive the basically reposting of a reddit post, I know it happens often enough already.  However this seriously blew my mind so much I really wanted to at least save it so I could reference it later.  I always knew of the other maps you could reference but never understood how big a difference they actually presented.`
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.reddit.com/r/woahdude/comments/1dqw88/worlds_population_pic/&quot;&gt;Source Reddit Thread&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://xkcd.com/977/&quot;&gt;Relevant XKCD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Horae</title>
       <link>http://alexthaler.github.io/articles/horae/</link>
