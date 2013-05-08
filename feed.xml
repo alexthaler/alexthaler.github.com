@@ -5,9 +5,45 @@
     <atom:link href="http://alexthaler.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://alexthaler.github.io</link>
     <description>Code, ideas and anything else that pops into my head.</description>
-    <pubDate>Mon, 06 May 2013 22:20:00 -0500</pubDate>
+    <pubDate>Tue, 07 May 2013 21:49:00 -0500</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Cool Quote and Randomness</title>
+      <link>http://alexthaler.github.io/articles/cool_quote_and_randomness/</link>
+      <pubDate>Tue, 07 May 2013 21:49:00 -0500</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/cool_quote_and_randomness/</guid>
+      <author></author>
+      <description>&lt;h3&gt;On Blogging&lt;/h3&gt;
+&lt;p&gt;So earlier this year I decided I&apos;d really like to start blogging again, I haven&apos;t written consistently in quite a long time.  However, as with programming, I quickly realized that I don&apos;t have anything interesting to write about and rarely come up with interesting ideas for posts.  Enter my idea list on Google Docs.  There I&apos;ve been writing down ideas for posts for the last couple of months and want to quickly hit a few of them to clean it up.
+
+&lt;/p&gt;
+&lt;h4&gt;Mou&lt;/h4&gt;
+&lt;p&gt;Based of the great tip on the &lt;a href=&quot;http://jnordberg.github.io/wintersmith/&quot;&gt;wintersmith homepage&lt;/a&gt; after moving to wintersmith I started using &lt;a href=&quot;http://mouapp.com/&quot;&gt;Mou&lt;/a&gt;.  Mou is by far the best way I&apos;ve found to write markdown and now every post I write for this blog is written in it.  The live display along with the syntax highlighting and built in keyboard shortcuts makes it much better than even SublimeText2 (which is my usual goto editor) for writing markdown.  Highly, highly reccomended if you&apos;re on Mac os X, if not then I guess you&apos;re kinda SOL.
+
+&lt;/p&gt;
+&lt;h4&gt;My New Favorite Quote/More Stealing From Reddit&lt;/h4&gt;
+&lt;p&gt;As I hinted at in my last post I spend lots of time on Reddit.  It&apos;s basically my goto along with HackerNews as filler activies while stuff is compiling/building/deploying whatever during the day.  A while back there was a great post on &lt;a href=&quot;http://www.reddit.com/r/programmerhumor&quot;&gt;ProgrammerHumor&lt;/a&gt; linking to &lt;a href=&quot;http://codecrap.com/content/6/&quot;&gt;this&lt;/a&gt;.  The post in itself is pretty funny (I will hunt down anyone that actually puts that in their code lol).  However in the comments there was this great quote by /u/pantsareamyth:
+
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;An experienced programmer is someone who looks both ways before crossing a one-way street.
+
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Of course initially I chuckled and that was about it, I kept on surfing and going about my day.  However the more I thought about it the more this really seems to ring true.  I&apos;ll tell you after dealing with many production bugs in the middle of the night because of missed use cases or &quot;impossible&quot; things happening.  I do sort of chuckle now every time I hear &quot;we don&apos;t have to plan for X, it&apos;ll never happen&quot;.
+
+&lt;/p&gt;
+&lt;h4&gt;Haircuts&lt;/h4&gt;
+&lt;p&gt;Lastly, after friend reccomendations and a man handing flyers out on the street I switched to a new haircut place simply because of their new iPhone app.  Ok, I know really random odd thing to blog about but this is seriously one of my new favorite things.  I used to hate going to the barber, honestly.  You show up, wait in line, you can call ahead but you might miss your name being called and it&apos;s hard to estimate the wait time.  However now GreatClips has an awesome iPhone app that ties into their waiting system and even provides an estimated wait time.  I&apos;ve used it multiple times and it&apos;s always worked great.  Good job GreatClips, always good to see technology simplifying life.  
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/great-clips-hair-salon/id414012602?mt=8&quot;&gt;GreatClips iPhone App&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Bam, there&apos;s three off the list.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Awesome Map/Geography Revelation</title>
       <link>http://alexthaler.github.io/articles/awesome_map/</link>
