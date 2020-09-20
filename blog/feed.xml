@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>   
+    <title>ThalBlog</title>
+    <atom:link href="http://alexthaler.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://alexthaler.github.io</link>
+    <description>Code, ideas and anything else that pops into my head.</description>
+    <pubDate>Tue, 07 May 2013 21:49:00 -0500</pubDate>
+    <generator>The mighty Wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Cool Quote and Randomness</title>
+      <link>http://alexthaler.github.io/articles/cool_quote_and_randomness/</link>
+      <pubDate>Tue, 07 May 2013 21:49:00 -0500</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/cool_quote_and_randomness/</guid>
+      <author></author>
+      <description>&lt;h3&gt;On Blogging&lt;/h3&gt;
+&lt;p&gt;So earlier this year I decided I&apos;d really like to start blogging again, I haven&apos;t written consistently in quite a long time.  However, as with programming, I quickly realized that I don&apos;t have anything interesting to write about and rarely come up with interesting ideas for posts.  Enter my idea list on Google Docs.  There I&apos;ve been writing down ideas for posts for the last couple of months and want to quickly hit a few of them to clean it up.
+
+&lt;/p&gt;
+&lt;h4&gt;Mou&lt;/h4&gt;
+&lt;p&gt;Based of the great tip on the &lt;a href=&quot;http://jnordberg.github.io/wintersmith/&quot;&gt;wintersmith homepage&lt;/a&gt; after moving to wintersmith I started using &lt;a href=&quot;http://mouapp.com/&quot;&gt;Mou&lt;/a&gt;.  Mou is by far the best way I&apos;ve found to write markdown and now every post I write for this blog is written in it.  The live display along with the syntax highlighting and built in keyboard shortcuts makes it much better than even SublimeText2 (which is my usual goto editor) for writing markdown.  Highly, highly reccomended if you&apos;re on Mac os X, if not then I guess you&apos;re kinda SOL.
+
+&lt;/p&gt;
+&lt;h4&gt;My New Favorite Quote/More Stealing From Reddit&lt;/h4&gt;
+&lt;p&gt;As I hinted at in my last post I spend lots of time on Reddit.  It&apos;s basically my goto along with HackerNews as filler activies while stuff is compiling/building/deploying whatever during the day.  A while back there was a great post on &lt;a href=&quot;http://www.reddit.com/r/programmerhumor&quot;&gt;ProgrammerHumor&lt;/a&gt; linking to &lt;a href=&quot;http://codecrap.com/content/6/&quot;&gt;this&lt;/a&gt;.  The post in itself is pretty funny (I will hunt down anyone that actually puts that in their code lol).  However in the comments there was this great quote by /u/pantsareamyth:
+
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;An experienced programmer is someone who looks both ways before crossing a one-way street.
+
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Of course initially I chuckled and that was about it, I kept on surfing and going about my day.  However the more I thought about it the more this really seems to ring true.  I&apos;ll tell you after dealing with many production bugs in the middle of the night because of missed use cases or &quot;impossible&quot; things happening.  I do sort of chuckle now every time I hear &quot;we don&apos;t have to plan for X, it&apos;ll never happen&quot;.
+
+&lt;/p&gt;
+&lt;h4&gt;Haircuts&lt;/h4&gt;
+&lt;p&gt;Lastly, after friend reccomendations and a man handing flyers out on the street I switched to a new haircut place simply because of their new iPhone app.  Ok, I know really random odd thing to blog about but this is seriously one of my new favorite things.  I used to hate going to the barber, honestly.  You show up, wait in line, you can call ahead but you might miss your name being called and it&apos;s hard to estimate the wait time.  However now GreatClips has an awesome iPhone app that ties into their waiting system and even provides an estimated wait time.  I&apos;ve used it multiple times and it&apos;s always worked great.  Good job GreatClips, always good to see technology simplifying life.  
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/great-clips-hair-salon/id414012602?mt=8&quot;&gt;GreatClips iPhone App&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Bam, there&apos;s three off the list.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Awesome Map/Geography Revelation</title>
+      <link>http://alexthaler.github.io/articles/awesome_map/</link>
+      <pubDate>Mon, 06 May 2013 22:20:00 -0500</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/awesome_map/</guid>
+      <author></author>
+      <description>&lt;p&gt;Today I read a post on reddit that reminded me of why I spend so much time on that site.  It all started out with a post titled &quot;Worlds Population&quot; and linked to the followig image.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/sJotonD.jpeg&quot; alt=&quot;initial awesome map&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Looking at this, it seriously blew my mind.  However I didn&apos;t have the reaction that a few on the comments did when they pointed out that the amount of land within that circle is actually much larger than displayed.  Looking further throught the comments I found this was definitely true and, of course, a relevant XKCD.  
+
+&lt;/p&gt;
+&lt;p&gt;It started when someone posted this image of the actual size of Africa that obviously conflicted with the posted images scale. 
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/uGTm3Wv.jpg&quot; alt=&quot;zomg africa map&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Along with an awesomely relevant West Wing clip (I&apos;ve always had this on my to watch list but it&apos;s now right at the top and on netflix!) that&apos;s definitely worth the 4 min watch.  
+
+&lt;/p&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/n8zBC2dvERM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Finally culiminating in a great revised map created by another redditor showing, in fact, how much larger the area is.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/N7yPa7z.jpg&quot; alt=&quot;super cool map&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Please forgive the basically reposting of a reddit post, I know it happens often enough already.  However this seriously blew my mind so much I really wanted to at least save it so I could reference it later.  I always knew of the other maps you could reference but never understood how big a difference they actually presented.`
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.reddit.com/r/woahdude/comments/1dqw88/worlds_population_pic/&quot;&gt;Source Reddit Thread&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://xkcd.com/977/&quot;&gt;Relevant XKCD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Horae</title>
+      <link>http://alexthaler.github.io/articles/horae/</link>
+      <pubDate>Mon, 22 Apr 2013 20:20:00 -0500</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/horae/</guid>
+      <author></author>
+      <description>&lt;p&gt;Wanted to make a quick post about the new site I just finished up recently called Horae (Hoe-rai).  This site is basically just a wrapper for the Metra rail-time tracker on their site.  I built it out partially because their UI wasn&apos;t ideal and also to try and make something super simple so everyone could use it.  
+
+&lt;/p&gt;
+&lt;p&gt;The result is &lt;a href=&quot;http://horae.herokuapp.com&quot;&gt;Horae&lt;/a&gt;.  
+
+&lt;/p&gt;
+&lt;p&gt;It&apos;s mobile optimized so you can easily check the train status at the station or quickly bring up the upcoming trains as you&apos;re walking there.  I know the design leaves something to be desired but give me a break I&apos;m just getting into this whole HTML/CSS thing :).  
+
+&lt;/p&gt;
+&lt;p&gt;At any rate just wanted to make a quick post about it.  I might expand this later to go more in depth into the code but that&apos;ll have to wait for another night.  
+
+&lt;/p&gt;
+&lt;p&gt;The source is also up on my &lt;a href=&quot;http://www.github.com/alexthaler/Horae&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>AlexThaler.com</title>
+      <link>http://alexthaler.github.io/articles/new_website/</link>
+      <pubDate>Sat, 20 Apr 2013 13:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/new_website/</guid>
+      <author></author>
+      <description>&lt;p&gt;After many years I have finally taken the time to setup a real website that represents me.  It doesn&apos;t do anything and as such isn&apos;t very interesting.  However after looking around at the curtain style scrolling sites I&apos;d seen everywhere, the real inspriration came from the &lt;a href=&quot;http://www.buildwindows.com/&quot;&gt;Microsoft build conference website&lt;/a&gt;.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/msft-build-screenie.png&quot; alt=&quot;screenshot of the build page incase it is removed&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Going off of this I tried to really take a shot at doing some interesting UI work (at least to me), as I haven&apos;t done real HTML UI work since… well ever really.  I also wanted to take this as an oppourtunity to try and learn some more CSS and specifically SASS.  Sass is seriously now my best friend, I used to hate doing css but sass I can grasp for some reason, the syntax of css I guess was just bugging me.  
+
+&lt;/p&gt;
+&lt;p&gt;At any rate after working on it for quite a bit this is now the new website and the first thing that uses a browser that doesn&apos;t use javascript heavily that I&apos;ve worked on it a long time.  
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.alexthaler.com&quot;&gt;&lt;img src=&quot;/img/site-screenie.png&quot; alt=&quot;it&apos;s sooo pretty!&quot;&gt;&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Let me know what you think, obviously the content of the site itself is still being hashed out but the site is functional and looks rather good I must say.   
+
+&lt;/p&gt;
+&lt;p&gt;So take a look and let me know what you think.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.alexthaler.com&quot;&gt;alexthaler.com&lt;/a&gt; &lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Productive Sunday</title>
+      <link>http://alexthaler.github.io/articles/grill_clean/</link>
+      <pubDate>Sat, 06 Apr 2013 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/grill_clean/</guid>
+      <author></author>
+      <description>&lt;p&gt;Since we had a burst of warmth here in Chicago recently I figured I&apos;d clean up my grill to get ready for summer.  Earlier in the winter I had a sizeable grease fire take place and had to douce it with half a pound of flour, leaving it in this state.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/dirtygrill.JPG&quot; alt=&quot;dirty grill&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Now after a good cleaning it looks much less like there was a snow explosion.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/cleangrill.JPG&quot; alt=&quot;clean grill&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>From Automation</title>
+      <link>http://alexthaler.github.io/articles/from_automation/</link>
+      <pubDate>Fri, 05 Apr 2013 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/from_automation/</guid>
+      <author></author>
+      <description>&lt;p&gt;This is a test post to ensure that my autodeploy script is working.  I&apos;ll be writing up a full description of how it works very soon.
+
+&lt;/p&gt;
+&lt;p&gt;This is another modification, yay pancake bunny of awesomeness.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://2.bp.blogspot.com/_PdnZ8gzHzOw/RtPSE1XxIAI/AAAAAAAAAZ4/iJvmpB_VLdo/s400/bunny_pancake.jpg&quot; alt=&quot;pancake bunny&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Alex&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Hello (new) World</title>
+      <link>http://alexthaler.github.io/articles/hello_world/</link>
+      <pubDate>Tue, 19 Feb 2013 19:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://alexthaler.github.io/articles/hello_world/</guid>
+      <author></author>
+      <description>&lt;p&gt;As you can probably tell the blog has undergone a major update and upgrade.  I&apos;m still working on the themeing and UI so expect more updates to come.  
+
+&lt;/p&gt;
+&lt;p&gt;The blog is now being generated using &lt;a href=&quot;http://jnordberg.github.com/wintersmith/&quot;&gt;wintersmith&lt;/a&gt; which so far has been awesome (thanks jnordberg).  The change was partially because of my issues with Octopress and syncing across multiple repos.
+
+&lt;/p&gt;
+&lt;p&gt;I am working on some tools to aid in publishing a blog with winterpress which I will probably post later.  Until then please bare with me and the odd themeing.  
+
+&lt;/p&gt;
+&lt;p&gt;Update: Now with 100% new theme.  Custom changes are still coming.
+
+&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
