@@ -1,182 +1,119 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>ThalBlog
-    </title>
-    <link rel="alternate" href="http://alexthaler.github.io/feed.xml" type="application/rss+xml" title="Code, ideas and anything else that pops into my head.">
-    <link rel="stylesheet" href="/css/main.css">
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-37141391-1']);
-      _gaq.push(['_trackPageview']);
-      
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
-  </head>
-  <body>
-    <header>
-      <div class="inner">
-        <h1><a href="http://alexthaler.github.io" class="darklink">ThalBlog</a></h1>
-        <p>Code, ideas and anything else that pops into my head.</p>
-      </div>
-    </header>
-    <div id="content">
-      <article class="post">
-        <header>
-          <h2><a href="/articles/cool_quote_and_randomness/">Cool Quote and Randomness</a></h2>
-          <p><span class="author"><a href="mailto:alexgthaler@gmail.com">Alex Thaler</a></span>
-          </p>
-        </header>
-        <section class="content"><h3>On Blogging</h3>
-<p>So earlier this year I decided I&apos;d really like to start blogging again, I haven&apos;t written consistently in quite a long time.  However, as with programming, I quickly realized that I don&apos;t have anything interesting to write about and rarely come up with interesting ideas for posts.  Enter my idea list on Google Docs.  There I&apos;ve been writing down ideas for posts for the last couple of months and want to quickly hit a few of them to clean it up.
+<head>
+	<link rel="stylesheet" href="css/main.css">
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-</p>
-<h4>Mou</h4>
-<p>Based of the great tip on the <a href="http://jnordberg.github.io/wintersmith/">wintersmith homepage</a> after moving to wintersmith I started using <a href="http://mouapp.com/">Mou</a>.  Mou is by far the best way I&apos;ve found to write markdown and now every post I write for this blog is written in it.  The live display along with the syntax highlighting and built in keyboard shortcuts makes it much better than even SublimeText2 (which is my usual goto editor) for writing markdown.  Highly, highly reccomended if you&apos;re on Mac os X, if not then I guess you&apos;re kinda SOL.
+		ga('create', 'UA-40290025-1', 'alexthaler.com');
+		ga('send', 'pageview');
+	</script>
+</head>
+<body>
+	<div class="overlay">
+		<header>
+			<div id="title">
+				<h1>Alex Thaler</h1>
+			</div>
+			<h3> Software Engineer <h2>
+			</header>
+			
+			<section class="banner banner-light" id="about">
+				<h1 class="title">About</h1>
+				<h5>MBTI - ISTJ</h5>
+				<span>
+					I am a diligent, professional and responsible worker that enjoys playing around with code in my free time. I love technology and spend much of my free time reading up on the newest frameworks, languages and libraries.  In my free time I try to play around with anything that seems interesting or fun (see github account, lots of half completed projects).  While also trying to stay involved with the programming community (spend lots of time on meetup now). Outside of technology I enjoy watching sports (da bears), exploring new local brews, reading up on politics/current events and relaxing whenever possible.
+				</span>
+			</section>
 
-</p>
-<h4>My New Favorite Quote/More Stealing From Reddit</h4>
-<p>As I hinted at in my last post I spend lots of time on Reddit.  It&apos;s basically my goto along with HackerNews as filler activies while stuff is compiling/building/deploying whatever during the day.  A while back there was a great post on <a href="http://www.reddit.com/r/programmerhumor">ProgrammerHumor</a> linking to <a href="http://codecrap.com/content/6/">this</a>.  The post in itself is pretty funny (I will hunt down anyone that actually puts that in their code lol).  However in the comments there was this great quote by /u/pantsareamyth:
+			<section class="banner banner-dark" id="programmer">
+				<h1 class="title">Programmer</h1>
+				<span class="content">
+					I have been programming since I was a kid, originally working on a green and black crt Tandy writing very simple BASIC programs.  From there I really lost interest for a while, regaining my love for programming once getting to high school and taking classes around VB.  While in college the infatuation with programming continued to grow focusing primarily on Java throughout my education, I also dabbled in Ruby however was still mostly backend.  I have 5 years of professional experience with Java and have some non-professional experience with JS and Ruby.
+				</span>
+			</section>
 
-</p>
-<blockquote>
-<p>An experienced programmer is someone who looks both ways before crossing a one-way street.
+			<section class="banner banner-light" id="interests">
+				<h1 class="title">IRL/AFK</h1>
+				<span class="content">When away from my keyboard I like to spend lots of time hanging out, relaxing, trying to decompress from the stress of deadlines and compiler errors.  During this time I like to read books across many differnet subjects (usually non-fiction).  Try to keep up with the news and politics as much as possible.  While also of course following my favorite sports teams (Da Bears!).</span>
+			</section>
 
-</p>
-</blockquote>
-<p>Of course initially I chuckled and that was about it, I kept on surfing and going about my day.  However the more I thought about it the more this really seems to ring true.  I&apos;ll tell you after dealing with many production bugs in the middle of the night because of missed use cases or &quot;impossible&quot; things happening.  I do sort of chuckle now every time I hear &quot;we don&apos;t have to plan for X, it&apos;ll never happen&quot;.
+			<section class="banner banner-dark" id="blog">
+				<h1 class="title">Blog</h1>
+				<span class="content">I usually use my blog as essentially an online code diary so whenever I post it's usually not that interesting but if you want there's a link below.  
+					<br>
+					<a href="http://alexthaler.github.io">alexthaler.github.io</a>
+				</span>
+			</section>
 
-</p>
-<h4>Haircuts</h4>
-<p>Lastly, after friend reccomendations and a man handing flyers out on the street I switched to a new haircut place simply because of their new iPhone app.  Ok, I know really random odd thing to blog about but this is seriously one of my new favorite things.  I used to hate going to the barber, honestly.  You show up, wait in line, you can call ahead but you might miss your name being called and it&apos;s hard to estimate the wait time.  However now GreatClips has an awesome iPhone app that ties into their waiting system and even provides an estimated wait time.  I&apos;ve used it multiple times and it&apos;s always worked great.  Good job GreatClips, always good to see technology simplifying life.  
+			<section class="banner banner-light" id="resume">
+				<h1 class="title">Resume</h1>
+				<span class="content">
+					<a href="https://gist.github.com/alexthaler/5426576#file-text-resume">Gist of my resume</a>
+				</span>	
+			</section>
 
-</p>
-<p><a href="https://itunes.apple.com/us/app/great-clips-hair-salon/id414012602?mt=8">GreatClips iPhone App</a>
+			<section class="banner banner-dark" id="projects">
+				<h1 class="title">Projects</h1>
+				<span class="content">
+					<ul>
+            <li><a href="http://www.powerhourtimer.com">PowerHourTimer.com</a></li>
+            <li><a href="http://horae.herokuapp.com/">Horae</a></li>
+					</ul>
+				</span>
+			</section>
 
-</p>
-<p>Bam, there&apos;s three off the list.</p>
-</section>
-      </article>
-      <article class="post">
-        <header>
-          <h2><a href="/articles/awesome_map/">Awesome Map/Geography Revelation</a></h2>
-          <p><span class="author"><a href="mailto:alexgthaler@gmail.com">Alex Thaler</a></span>
-          </p>
-        </header>
-        <section class="content"><p>Today I read a post on reddit that reminded me of why I spend so much time on that site.  It all started out with a post titled &quot;Worlds Population&quot; and linked to the followig image.
+			<section class="banner banner-light" id="socialmedia">
+				<h1 class="title">Sites/Social Media</h1>
+				<div class="row">
+					<a href="http://www.linkedin.com/pub/alex-thaler/38/793/315">
+						<div class="span4">
+							<div class="socialmedia">
+								<img src="img/linkedin.png" alt="linkedin">
+								Alex Thaler
+							</div>
+						</div>
+					</a>
+					<a href="http://www.twitter.com/alexthaler">
+						<div class="span4">
+							<div class="socialmedia">
+								<img src="img/twitter.png" alt="twitter">
+								@alexthaler
+							</div>
+						</div>
+					</a>
+					<a href="http://www.google.com/+AlexThaler">
+						<div class="span4">
+							<div class="socialmedia">
+								<img src="img/google-plus.png" alt="google plus">
+								Alex Thaler
+							</div>	
+						</div>
+					</a>
+					<a href="http://www.github.com/alexthaler">
+						<div class="span4">
+							<div class="socialmedia">
+								<img src="img/github.png" alt="github">
+								alexthaler
+							</div>	
+						</div>
+					</a>
+				</div>
+			</section>
 
-</p>
-<p><img src="http://i.imgur.com/sJotonD.jpeg" alt="initial awesome map">
+			<section class="banner banner-trans" id="footer">
+				<span id="footercontent">
+					Credits:  This site uses <a href="http://twitter.github.io/bootstrap/">Twitter Bootstrap</a>, and icons from the <a href="http://www.softicons.com/free-icons/social-media-icons/simple-icons-by-dan-leech">Simple Icons set by Dan Leech</a>.  Background photograph not taken by me, it was a background I found somewhere on <a href="http://www.reddit.com/r/chicago">/r/chicago</a>.
+				</span>
+			</section>
+		</div>
 
-</p>
-<p>Looking at this, it seriously blew my mind.  However I didn&apos;t have the reaction that a few on the comments did when they pointed out that the amount of land within that circle is actually much larger than displayed.  Looking further throught the comments I found this was definitely true and, of course, a relevant XKCD.  
-
-</p>
-<p>It started when someone posted this image of the actual size of Africa that obviously conflicted with the posted images scale. 
-
-</p>
-<p><img src="http://i.imgur.com/uGTm3Wv.jpg" alt="zomg africa map">
-
-</p>
-<p>Along with an awesomely relevant West Wing clip (I&apos;ve always had this on my to watch list but it&apos;s now right at the top and on netflix!) that&apos;s definitely worth the 4 min watch.  
-
-</p>
-<iframe width="420" height="315" src="http://www.youtube.com/embed/n8zBC2dvERM" frameborder="0" allowfullscreen></iframe>
-
-<p>Finally culiminating in a great revised map created by another redditor showing, in fact, how much larger the area is.
-
-</p>
-<p><img src="http://i.imgur.com/N7yPa7z.jpg" alt="super cool map">
-
-</p>
-<p>Please forgive the basically reposting of a reddit post, I know it happens often enough already.  However this seriously blew my mind so much I really wanted to at least save it so I could reference it later.  I always knew of the other maps you could reference but never understood how big a difference they actually presented.`
-
-</p>
-<p><a href="http://www.reddit.com/r/woahdude/comments/1dqw88/worlds_population_pic/">Source Reddit Thread</a>
-
-</p>
-<p><a href="http://xkcd.com/977/">Relevant XKCD</a></p>
-</section>
-      </article>
-      <article class="post">
-        <header>
-          <h2><a href="/articles/horae/">Horae</a></h2>
-          <p><span class="author"><a href="mailto:alexgthaler@gmail.com">Alex Thaler</a></span>
-          </p>
-        </header>
-        <section class="content"><p>Wanted to make a quick post about the new site I just finished up recently called Horae (Hoe-rai).  This site is basically just a wrapper for the Metra rail-time tracker on their site.  I built it out partially because their UI wasn&apos;t ideal and also to try and make something super simple so everyone could use it.  
-
-</p>
-<p>The result is <a href="http://horae.herokuapp.com">Horae</a>.  
-
-</p>
-<p>It&apos;s mobile optimized so you can easily check the train status at the station or quickly bring up the upcoming trains as you&apos;re walking there.  I know the design leaves something to be desired but give me a break I&apos;m just getting into this whole HTML/CSS thing :).  
-
-</p>
-<p>At any rate just wanted to make a quick post about it.  I might expand this later to go more in depth into the code but that&apos;ll have to wait for another night.  
-
-</p>
-<p>The source is also up on my <a href="http://www.github.com/alexthaler/Horae">github</a>.</p>
-</section>
-      </article>
-      <article class="post">
-        <header>
-          <h2><a href="/articles/new_website/">AlexThaler.com</a></h2>
-          <p><span class="author"><a href="mailto:alexgthaler@gmail.com">Alex Thaler</a></span>
-          </p>
-        </header>
-        <section class="content"><p>After many years I have finally taken the time to setup a real website that represents me.  It doesn&apos;t do anything and as such isn&apos;t very interesting.  However after looking around at the curtain style scrolling sites I&apos;d seen everywhere, the real inspriration came from the <a href="http://www.buildwindows.com/">Microsoft build conference website</a>.
-
-</p>
-<p><img src="/img/msft-build-screenie.png" alt="screenshot of the build page incase it is removed">
-
-</p>
-<p>Going off of this I tried to really take a shot at doing some interesting UI work (at least to me), as I haven&apos;t done real HTML UI work since… well ever really.  I also wanted to take this as an oppourtunity to try and learn some more CSS and specifically SASS.  Sass is seriously now my best friend, I used to hate doing css but sass I can grasp for some reason, the syntax of css I guess was just bugging me.  
-
-</p>
-<p>At any rate after working on it for quite a bit this is now the new website and the first thing that uses a browser that doesn&apos;t use javascript heavily that I&apos;ve worked on it a long time.  
-
-</p>
-<p><a href="http://www.alexthaler.com"><img src="/img/site-screenie.png" alt="it&apos;s sooo pretty!"></a>
-
-</p>
-<p>Let me know what you think, obviously the content of the site itself is still being hashed out but the site is functional and looks rather good I must say.   
-
-</p>
-<p>So take a look and let me know what you think.
-
-</p>
-<p><a href="http://www.alexthaler.com">alexthaler.com</a> </p>
-</section>
-      </article>
-      <article class="post">
-        <header>
-          <h2><a href="/articles/grill_clean/">Productive Sunday</a></h2>
-          <p><span class="author"><a href="mailto:alexgthaler@gmail.com">Alex Thaler</a></span>
-          </p>
-        </header>
-        <section class="content"><p>Since we had a burst of warmth here in Chicago recently I figured I&apos;d clean up my grill to get ready for summer.  Earlier in the winter I had a sizeable grease fire take place and had to douce it with half a pound of flour, leaving it in this state.
-
-</p>
-<p><img src="/img/dirtygrill.JPG" alt="dirty grill">
-
-</p>
-<p>Now after a good cleaning it looks much less like there was a snow explosion.
-
-</p>
-<p><img src="/img/cleangrill.JPG" alt="clean grill"></p>
-</section>
-      </article><a href="archive.html" id="archive" class="darklink">Archives</a>
-    </div>
-    <footer>
-      <div class="inner">
-        <p>&copy; 2013 Alex Thaler</p>
-      </div>
-    </footer>
-  </body>
-</html>
+		<div id="bg">
+			<img src="img/chi_bg.jpg">
+		</div>
+	</body>
+	</html>
